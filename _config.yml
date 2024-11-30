@@ -4,7 +4,7 @@ SEOTitle: Sherlock的博客 | Sherlock Blog
 header-img: img/home-autumn-bg.jpg
 email: hul2021@foxmail.com
 description: "这里是 @Sherlock 的个人博客，与你一起发现更大的世界"
-keyword: "Sherlock, @huxpro, Sherlock的博客, 互联网"
+keyword: "Sherlock, @sherlock, Sherlock的博客, 互联网"
 url: "https://sherlock.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -17,7 +17,7 @@ weibo_username: sherlock
 zhihu_username: sherlock
 github_username: sherlock
 twitter_username: sherlock
-#facebook_username:  huxpro
+#facebook_username:  sherlock
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
